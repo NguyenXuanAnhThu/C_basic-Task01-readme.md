@@ -69,3 +69,14 @@
    | Hàng 4 | 4x1 | 4x2 | 4x3 | 4x4 |      
    
   ~~~
+  
+  <a name="caidat"></a>
+ # 4. Cài đặt Sublime Text và tìm kiếm, cài đặt các công cụ hỗ trợ Markdown (export HTML, markdown preview,...):
+  a. Cài đặt Sublime Text:
+   Truy cập vào: `http://www.sublimetextcom/3` để tải file về cài đặt theo giao diện. Ở đây có:
+   - OS X
+   - Windows 64 bit
+   - Ubuntu 64 bit
+   - Ubuntu 32 bit
+  b. Các công cụ hỗ trợ Sublime Text : notepad, notepad ++, stackedit,...
+  c. Các công cụ hỗ trợ Markdown : export HTML, markdown preview,...
