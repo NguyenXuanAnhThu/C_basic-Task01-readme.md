@@ -37,22 +37,35 @@
    
  3. Ký tự in đậm, in nghiêng, gạch ngang:
   - **In đậm**:
-   ` **từ cần in đậm** `
+  ` **từ cần in đậm** `
   - *In nghiêng*:
-   ` *từ cần in nghiêng* `
+  ` *từ cần in nghiêng* `
   - ~~Gạch ngang~~:
-   ` ~~từ cần gạch ngang~~ `
- 4. Trích dẫn, bo chữ
-    ``đoạn cần bo``
- 5. Gạch đầu dòng:
-    `- Gạch đầu dòng thứ nhất      
-       <u1>                       
-       <li>Thụt với đầu dòng 1</li>
-       <li>Thụt với đầu dòng 2</li>
-       </u1>                       
-     - Gạch đầu dòng thứ hai       
-       <u1>                        
-       <li>Thụt với đầu dòng 1</li>
-       <li>Thụt với đầu dòng 2</li>
-       </u1>                       `
+  ` ~~từ cần gạch ngang~~ `
+  
+ 4. Gạch đầu dòng:
+ 
+ ~~~
+ 
+  - Gạch đầu dòng thứ nhất
+  <ul>
+  <li>Thụt với đầu dòng 1</li>
+  <li>Thụt với đầu dòng 1</li>
+  </ul>
+  - Gạch đầu dòng thứ hai
+  <ul>
+  <li>Thụt với đầu dòng 2</li>
+  <li>Thụt với đầu dòng 2</li>
+  </ul>
+  
+ ~~~
  6. Bảng:
+  ~~~
+  
+   | Cột 1 Hàng 1 | Cột 2 | Cột 3 | Cột 4 |
+   |--------------|-------|-------|-------|
+   | Hàng 2 | 2x1 | 2x2 | 2x3 | 2x4 |      
+   | Hàng 3 | 3x1 | 3x2 | 3x3 | 3x4 |      
+   | Hàng 4 | 4x1 | 4x2 | 4x3 | 4x4 |      
+   
+  ~~~
