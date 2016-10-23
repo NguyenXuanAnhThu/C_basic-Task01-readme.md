@@ -78,5 +78,7 @@
    - Windows 64 bit
    - Ubuntu 64 bit
    - Ubuntu 32 bit
+   
   b. Các công cụ hỗ trợ Sublime Text : notepad, notepad ++, stackedit,...
+  
   c. Các công cụ hỗ trợ Markdown : export HTML, markdown preview,...
